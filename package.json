@@ -1,0 +1,23 @@
+{
+  "name": "software-automatic-mouth",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for SAM (Software Automatic Mouth) as reverse-engineered by s-macke on GitHub.",
+  "main": "./src/index",
+  "scripts": {
+    "cleanup": "node ./tests/cleanup",
+    "test": "node ./tests/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeizedThoughts/node-software-automatic-mouth.git"
+  },
+  "keywords": [
+    "tts"
+  ],
+  "author": "SeizedThoughts",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/SeizedThoughts/node-software-automatic-mouth/issues"
+  },
+  "homepage": "https://github.com/SeizedThoughts/node-software-automatic-mouth#readme"
+}

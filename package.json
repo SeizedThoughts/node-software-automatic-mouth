@@ -1,6 +1,6 @@
 {
   "name": "software-automatic-mouth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js wrapper for SAM (Software Automatic Mouth) as reverse-engineered by s-macke on GitHub.",
   "main": "./src/index",
   "scripts": {

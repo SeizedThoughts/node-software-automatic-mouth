@@ -11,13 +11,13 @@ This is a wrapper for the reverse-engineered C version of SAM as created by [s-m
 Using npm:
 
 ```bash
-$ npm install software-automatic-mouth
+npm install software-automatic-mouth
 ```
 
 Using git:
 
 ```bash
-$ git clone https://github.com/SeizedThoughts/node-software-automatic-mouth.git
+git clone https://github.com/SeizedThoughts/node-software-automatic-mouth.git
 ```
 
 # Getting Started
